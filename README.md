@@ -1,0 +1,2 @@
+# my-idea
+With the following pull request, following functionalities are implemented -  Import existing Automata into Developing Automata. Global and Local Namespace for every Automata. Namespace generation with Developing Automata. Namespace generation with Opening Automata. Namespace generation with Importing Automata. ROS Code Generation with Global and Local Namespace. UI to access Global and Local Namespace with Qsicintialla Tabbed UI Design. ROS Package for VisualStates Support for External ROS Package Messages
